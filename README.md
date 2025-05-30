@@ -1,1 +1,3 @@
 # real_estate_exploration
+
+This project is meant to be an exploration of real estate data from 2015-2022 (source: https://catalog.data.gov/dataset/real-estate-sales-2001-2018). I want to download the information and extract only data in regards to the sales prices of the homes in the state of Connecticut and get an understanding of how pricing has fluctuated over the years as well as predict what they might look like in the future. The goal is to filter out only the necessary information from the source file, then move all data into a database for cleaner storage and querying, and create a ML model for predicting pricing of future homes.
